@@ -14,3 +14,6 @@ script:
    #- python testCalculator.py
    - cd calculadora
    - lettuce tests/
+   - cd ..
+   -cd edad
+   - lettuce tests/
