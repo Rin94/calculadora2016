@@ -15,5 +15,5 @@ script:
    #- cd calculadora
    #- lettuce tests/
    #- cd ..
-   -cd edad
+   - cd edad
    - lettuce tests/
